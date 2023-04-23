@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scopeofice
+- 👋 Hi, I’m Shubham Ghodkhande
 - 👀 I’m interested in Designing and Coding
 - 🌱 I’m currently learning Fullstack development
 - 💞️ I’m looking to collaborate on Web applications
