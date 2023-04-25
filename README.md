@@ -1,7 +1,8 @@
+# 💫 About Me:
 - 👋 Hi, I’m @Shubham Ghodkhande
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack web development
-
+🔭 I love learning New Technologies<br>🌱 I’m currently learning AWS<br>💬 Ask me about java<br>📫 How to reach me shubhamg0615@gmail.com
 
  
 </div>
@@ -13,4 +14,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-
