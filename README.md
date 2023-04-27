@@ -3,7 +3,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack web development
 - 🔭 I love learning New Technologies
-- 🌱 I’m currently learning AWS
 - 💬 Ask me about java
 - 📫 How to reach me shubhamg0615@gmail.com
 
