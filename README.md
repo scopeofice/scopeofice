@@ -9,8 +9,6 @@
  
 </div>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/scopeofice)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/scopeofice) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-ghodkhande-427825266/) 
 
@@ -20,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=scopeofice&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scopeofice&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=scopeofice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/scopeofice)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
