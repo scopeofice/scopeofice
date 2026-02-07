@@ -1,6 +1,5 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Shubham Ghodkhande
-- 👀 SDE @ ITC Infotech
 - 📫 How to reach me shubhamg0615@gmail.com
 
  
