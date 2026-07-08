@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Shubham Ghodkhande
+- 👋 Hi, I’m Shubham Ghodkhande
 - 📫 How to reach me shubhamg0615@gmail.com
 
  
